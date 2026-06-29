@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/briya1597/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/briya1597/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/briya1597/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/briya1597/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/briya1597/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Trie
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/briya1597/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/briya1597/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
