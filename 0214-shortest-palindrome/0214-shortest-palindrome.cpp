@@ -1,0 +1,20 @@
+class Solution {
+public:
+    string shortestPalindrome(string s) {
+        int n=s.size();
+        int j=0;
+        for(int i=n-1;i>=0;i--){
+            if(s[i]==s[j]){
+                j++;
+            }
+        }
+        if(j==n) return s;
+
+        string suffix = s.substr(j);
+        string revSuffix = suffix;
+        reverse(revSuffix.begin(), revSuffix.end());
+
+        return revSuffix + shortestPalindrome(s.substr(0, j)) + suffix;
+        
+    }
+};
