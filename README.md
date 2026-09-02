@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/briya1597/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/briya1597/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/briya1597/LeetCode/tree/master/0704-binary-search) |
+| [3875-construct-uniform-parity-array-i](https://github.com/briya1597/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Trie
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/briya1597/LeetCode/tree/master/0009-palindrome-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/briya1597/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
